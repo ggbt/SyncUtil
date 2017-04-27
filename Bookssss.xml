@@ -48,21 +48,124 @@
                     years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
                     Virginia, looked up one of the more obscure Latin words, consectetur, from a
                     Lorem Ipsum passage, and going through the cites of the word in classical
+                    literature, discovered the undoubtable source. Lorem Ipsum com<equation>
+                        <math xmlns="http://www.w3.org/1998/Math/MathML">
+                            <mo>&#x22F1;</mo>
+                            <mo>&#x22F1;</mo>
+                            <mo>&#x22F1;</mo>
+                            <mover>
+                                <mo>&#x2190;</mo>
+                                <mrow>
+                                    <mi>s</mi>
+                                    <mi>s</mi>
+                                    <mi>s</mi>
+                                </mrow>
+                            </mover>
+                        </math>
+                    </equation>es from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et
+                    Malorum" (<equation>
+                        <math class="wrs_chemistry" xmlns="http://www.w3.org/1998/Math/MathML">
+                            <mtable>
+                                <mtr>
+                                    <mtd>
+                                        <mi mathvariant="bold">a</mi>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">2</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">3</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                </mtr>
+                                <mtr>
+                                    <mtd>
+                                        <mn mathvariant="bold">2</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mi mathvariant="bold">a</mi>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">1</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">3</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                </mtr>
+                                <mtr>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">2</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mi mathvariant="bold">a</mi>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">1</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mo mathvariant="bold">&#x2206;</mo>
+                                    </mtd>
+                                </mtr>
+                                <mtr>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">2</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mi mathvariant="bold">a</mi>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">1</mn>
+                                    </mtd>
+                                </mtr>
+                                <mtr>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">4</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mn mathvariant="bold">2</mn>
+                                    </mtd>
+                                    <mtd>
+                                        <mi mathvariant="bold">a</mi>
+                                    </mtd>
+                                </mtr>
+                            </mtable>
+                        </math>
+                    </equation>The Extremes of Good and Evil) by Cicero, written in 45 BC. This book
+                    is a treatise on the theory of ethics, very popular during the Renaissance. The
+                    first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in
+                    section 1.10.32Contrary to popular belief, Lorem Ipsum is not simply random
+                    text. It has roots in a piece of classical Latin literature from 45 BC, making
+                    it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
+                    College in Virginia, looked up one of the more obscure Latin words, consectetur,
+                    from a Lorem Ipsum passage, and going through the cites of the word in classical
                     literature, discovered the undoubtable source. Lorem Ipsum comes from sections
                     1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
                     Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
                     ethics, very popular during the Renaissance. The first line of Lorem Ipsum,
-                    "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32Contrary to
-                    popular belief, Lorem Ipsum is not simply random text. It has roots in a piece
-                    of classical Latin literature from 45 BC, making it over 2000 years old. Richard
-                    McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up
-                    one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-                    and going through the cites of the word in classical literature, discovered the
-                    undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de
-                    Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written
-                    in 45 BC. This book is a treatise on the theory of ethics, very popular during
-                    the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
-                    comes from a line in section 1.10.32</para>
+                    "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32</para>
                 <para>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
                     roots in a piece of classical Latin literature from 45 BC, making it over 2000
                     years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
@@ -83,7 +186,51 @@
                     in 45 BC. This book is a treatise on the theory of ethics, very popular during
                     the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
                     comes from a line in section 1.10.32</para>
-                <para>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
+                <para>Contrary to popular belief, Lorem Ipsum is not simply random text<equation>
+                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
+                            <mml:semantics>
+                                <mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi mathvariant="bold">a</mml:mi>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mi mathvariant="bold">F</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mi>m</mml:mi>
+                                        </mml:mfrac>
+                                        <mml:mo>=</mml:mo>
+                                        <mml:mfrac>
+                                            <mml:mrow>
+                                                <mml:mi>q</mml:mi>
+                                                <mml:mo>[</mml:mo>
+                                                <mml:mi mathvariant="bold">E</mml:mi>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mfenced>
+                                                  <mml:mrow>
+                                                  <mml:mi mathvariant="bold">v</mml:mi>
+                                                  <mml:mi>X</mml:mi>
+                                                  <mml:mi mathvariant="bold">B</mml:mi>
+                                                  </mml:mrow>
+                                                </mml:mfenced>
+                                                <mml:mo>]</mml:mo>
+                                            </mml:mrow>
+                                            <mml:mi>m</mml:mi>
+                                        </mml:mfrac>
+                                    </mml:mrow>
+                                </mml:mrow>
+                            </mml:semantics>
+                        </mml:math>
+                    </equation>. It has roots in a piece of classical Latin literature from 45 BC,
+                    making it over 2000 years old. Richard McClintock, a Latin professor at
+                    Hampden-Sydney College in Virginia, looked up one of the more obscure Latin
+                    words, consectetur, from a Lorem Ipsum passage, and going through the cites of
+                    the word in classical literature, discovered the undoubtable source. Lorem Ipsum
+                    comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The
+                    Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise
+                    on the theory of ethics, very popular during the Renaissance. The first line of
+                    Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
+                    1.10.32Contrary to popular belief, Lorem Ipsum is not simply random text. It has
                     roots in a piece of classical Latin literature from 45 BC, making it over 2000
                     years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
                     Virginia, looked up one of the more obscure Latin words, consectetur, from a
@@ -92,17 +239,7 @@
                     1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
                     Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
                     ethics, very popular during the Renaissance. The first line of Lorem Ipsum,
-                    "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32Contrary to
-                    popular belief, Lorem Ipsum is not simply random text. It has roots in a piece
-                    of classical Latin literature from 45 BC, making it over 2000 years old. Richard
-                    McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up
-                    one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-                    and going through the cites of the word in classical literature, discovered the
-                    undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de
-                    Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written
-                    in 45 BC. This book is a treatise on the theory of ethics, very popular during
-                    the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
-                    comes from a line in section 1.10.32</para>
+                    "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32</para>
                 <para>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
                     roots in a piece of classical Latin literature from 45 BC, making it over 2000
                     years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
