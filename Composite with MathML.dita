@@ -4,10 +4,9 @@
   <topic id="topic_whg_rps_gy">
     <title>Title</title>
     <body>
-      <p>An equation: <equation>
+      <p>An equation!: <equation>
           <math type="presentation">
-            <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
-              display="block">
+            <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
               <mml:semantics>
                 <mml:mrow>
                   <mml:mrow>
