@@ -2,9 +2,10 @@
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
   <topic id="topic_qn2_h2v_5t">
-    <title>Compositeaa</title>
+    <title>Compositseaaa</title>
     <body>
-      <p>Good stuff here.</p>
+      <p>Good s</p>
+      <p>tuff <b>here</b>.</p>
       <p><apiname>tryer.celeritas</apiname></p>
       <codeblock/>
     </body>
