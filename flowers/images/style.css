@@ -1,0 +1,17 @@
+image:after
+{
+
+                display: block;
+
+                padding-top: .75em;
+
+                content: url('Lilac.jpg') "Photo (Web): " 
+
+                oxy_label(text, attr(File),
+                                styles, "color:blue; text-decoration:underline;")
+
+                "\A\A" attr(File, url);
+
+                link: attr(File);
+
+}
