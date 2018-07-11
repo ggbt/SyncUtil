@@ -22,7 +22,7 @@ travelGuide{
     font-size:0.8em;
     line-height:120%;
     margin: 0 auto;
-    width: 900px;
+    width: 500px;
 }
 
 travelGuide > title{
@@ -252,16 +252,6 @@ row > description{
     background-color:#fffdde;
 }
 
-row > description:after{
-    content:
-    oxy_label(text, "Facilities: ", width, 4em, text-align, left)
- oxy_popup(
-edit, "@facilities", 
-resultSeparator, ",", 
-rendererSeparator, "|", 
-values, "Umbrella, Chaise lounges, Bar, Club, Restaurant");
-}
-
 info{
     display:table-cell;
     padding:0.5em;
@@ -333,13 +323,7 @@ pointOfInterest{
     padding-bottom:31px;
     border-bottom:1px solid #DDDDDD;
 }
-
-pointOfInterest:hover{
-    padding-bottom:0;
-}
-
-
-pointOfInterest:hover:after{
+pointOfInterest:after{
     display:block;
     /* 
 	The actual button to action mapping is defined in the file:
