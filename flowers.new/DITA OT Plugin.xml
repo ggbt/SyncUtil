@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="dita-ot/plugin.rnc" type="application/relax-ng-compact-syntax"?>
-<plugin id="newPluginID">
-</plugin>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_y31_r4b_ffb">
+    <title></title>
+    <shortdesc></shortdesc>
+    <refbody> </refbody>
+</reference>
