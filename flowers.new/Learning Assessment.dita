@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE learningAssessment PUBLIC "-//OASIS//DTD DITA Learning Assessment//EN" "learningAssessment.dtd">
-<learningAssessment id="assessment_uzz_pz2_gfb">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_srt_wbf_gfb">
     <title></title>
     <shortdesc></shortdesc>
-    <learningAssessmentbody> </learningAssessmentbody>
-</learningAssessment>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>
