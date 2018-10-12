@@ -6,7 +6,7 @@
     <topicref href="tasks/pruning.dita"/>
     <topicref href="tasks/gardenPreparation.dita"/>
   </topicref>
-  <topicref href="topics/index.dita" keys="my-key"/>
+  <topicref href="topics/extra_file_2.dita" keys="my-key"/>
   <topicref href="topics/index.dita" collection-type="sequence">
     <topicref href="concepts/springFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/iris.dita"/>
