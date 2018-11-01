@@ -4,7 +4,7 @@
     <title>Upgrading Content Fusion!</title>
     <body>
         <p>Upgrading Content Fusion involves the old instance and a staging instance which will
-            replace the old instance.</p>
+            replace the old instance.sss</p>
         <p>To upgrade Content Fusion follow these steps:<ol>
                 <li>Install the new version of Content Fusion [<xref
                         href="http://userguide.sync.ro/content-fusion/topics/cf-vmsphere.html"
