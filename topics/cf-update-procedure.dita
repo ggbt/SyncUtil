@@ -4,27 +4,25 @@
     <title>Upgrading Content Fusion</title>
     <body>
         <p>Upgrading Content Fusion involves the old instance and a staging instance which will
-            replace the old instance. Commands which need to be performed on each instance will be
-            color coded in the steps below like this:<ul>
-                <li><b>🔹</b>  Commands which need to be performed on the staging machine.</li>
-                <li><b>🔸</b>  Commands which need to be performed on the old machine.</li>
-            </ul></p>
+            replace the old instance.</p>
         <p>To upgrade Content Fusion follow these steps:<ol>
-                <li><b>🔹</b>  Install the new version of Content Fusion on a staging machine.</li>
-                <li><b>🔸</b>  Enable <xref
+                <li>Install the new version of Content Fusion on a staging machine which will become
+                    the production machine for the new version.</li>
+                <li>Enable <xref
                         href="http://userguide.sync.ro/content-fusion/topics/cf-enterprise-configuration.html?hl=Maintenance%20Mode#cf-enterprise-configuration__maintenance"
                         format="html" scope="external">maintenance mode</xref> on the old
                     instance.</li>
-                <li><b>🔸</b>  <xref
+                <li><xref
                         href="http://userguide.sync.ro/content-fusion/topics/cf-enterprise-backups.html#cf-enterprise-backups__section_dy1_p3k_ndb"
                         format="html" scope="external">Create a backup</xref> of the old
-                    instance.</li>
-                <li>Move the backup to the staging machine.</li>
-                <li><b>🔹</b>  <xref
+                        instance.<p>Maintenance mode needs to be enabled during this step to ensure
+                        the backup is created correctly.</p></li>
+                <li>Copy the backup to the staging machine.</li>
+                <li><xref
                         href="http://userguide.sync.ro/content-fusion/topics/cf-enterprise-backups.html?hl=Restoring%20a%20Backup#cf-enterprise-backups__section_dzj_q3k_ndb"
                         format="html" scope="external">Restore the fusion backup</xref> on the
                     staging machine.</li>
-                <li><b>🔹</b>  Test the new staging environment.</li>
+                <li>Test the new staging environment.</li>
                 <li>Point the DNS of the old Content Fusion to the new one.</li>
             </ol></p>
     </body>
