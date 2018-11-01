@@ -5,10 +5,10 @@
     <body>
         <p>Upgrading Content Fusion involves the old instance and a staging instance which will
             replace the old instance. Commands which need to be performed on each instance will be
-            color coded in the steps below like this:<ol>
+            color coded in the steps below like this:<ul>
                 <li>🔵  Commands which need to be performed on the staging machine.</li>
                 <li>🔴  Commands which need to be performed on the old machine.</li>
-            </ol></p>
+            </ul></p>
         <p>To upgrade Content Fusion follow these steps:<ol>
                 <li>🔵  Install the new version of Content Fusion on a staging machine.</li>
                 <li>🔴  Enable <xref
