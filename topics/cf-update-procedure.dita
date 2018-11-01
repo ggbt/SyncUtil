@@ -6,8 +6,14 @@
         <p>Upgrading Content Fusion involves the old instance and a staging instance which will
             replace the old instance.</p>
         <p>To upgrade Content Fusion follow these steps:<ol>
-                <li>Install the new version of Content Fusion on a staging machine which will become
-                    the production machine for the new version.</li>
+                <li>Install the new version of Content Fusion [<xref
+                        href="http://userguide.sync.ro/content-fusion/topics/cf-vmsphere.html"
+                        format="html" scope="external">1</xref>][<xref
+                        href="http://userguide.sync.ro/content-fusion/topics/cf-aws.html"
+                        format="html" scope="external">2</xref>][<xref
+                        href="http://userguide.sync.ro/content-fusion/topics/cf-ubuntu.html"
+                        format="html" scope="external">3</xref>] on a staging machine which will
+                    become the production machine for the new version.</li>
                 <li>Enable <xref
                         href="http://userguide.sync.ro/content-fusion/topics/cf-enterprise-configuration.html?hl=Maintenance%20Mode#cf-enterprise-configuration__maintenance"
                         format="html" scope="external">maintenance mode</xref> on the old
