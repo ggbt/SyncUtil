@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="care">
+    <title>𠱓 𠱓</title>
+    <shortdesc>When caring for your flower garden you want to feed your plants properly, control
+        pests and weeds.</shortdesc>
+    <body>
+        <p>Wr your flower <b><i><u>garden</u></i></b> you want to feed your plants properly, control
+            pests and weeds. Good soil is a must to successful gardening, lands⛹⚽ pacing, and
+            healthy flowers. You have to
+                <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance the soil
+            structure with nutrients and regulate the pH to cover your plants'
+            needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
+            And above all, remember that many flower gardens fail because they just don't get enough
+            of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+        <p>
+            <table frame="none">
+                <title>Flowers</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="newCol3" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Flower</entry>
+                            <entry>Soil</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Chrysanthemum</entry>
+                            <entry>well drained</entry>
+                        </row>
+                        <row>
+                            <entry>Gardenia</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>Gerbera</entry>
+                            <entry>sandy, well-drained</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry>slightly acidic</entry>
+                        </row>
+                        <row>
+                            <entry>Lilac</entry>
+                            <entry>alkaline</entry>
+                        </row>
+                        <row>
+                            <entry>Sal via</entry>
+                            <entry>average</entry>
+                        </row>
+                        <row>
+                            <entry>Snowdrop</entry>
+                            <entry>humus-rich</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+<topic id="id_esn_zgg_qbb" conref="copyright.dita#copyright"><title/>
+</topic>
+</topic>
