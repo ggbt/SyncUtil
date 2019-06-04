@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Part of the CSS comes from the associated document type. 
+    It's path is ${frameworks}/samples/css/form-controls.css. -->
+<?xml-stylesheet type="text/css" href="form-controls.css"?>
+
+<formControls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.oxygenxml.com/ns/samples/form-controls form-controls.xsd" xmlns="http://www.oxygenxml.com/ns/samples/form-controls"><title>WA-2847: Tab/Shift+Tab to move focus through a text-area form-control</title><abstract><p>First paragraph.</p><p><b><pre>text area content</pre></b></p><p>Second paragraph.</p></abstract><section><ul><li><p><b>authorAccess</b> - text.</p></li></ul><ul><li><p><b>contextElement</b> - text.</p></li></ul><ul><li><p><b>pluginWorkspace</b>- text.</p></li></ul><ul><li><p><b>fcArguments</b> - text.</p></li></ul><ul/></section></formControls>
