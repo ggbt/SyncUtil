@@ -4,7 +4,8 @@
   <topic id="topic_qn2_h2v_5t">
     <title>Composition</title>
     <body>
-      <p>Good s</p>
+      <p>Good<xref href="https://github.com/ggbt/SyncUtil/blob/default_branch/C%23ncept.dita"
+          format="xml" scope="external"/> s</p>
       <p>tough <b>here</b>.</p>
       <p><apiname>ascertainable</apiname></p>
       <codeblock>eval<b/></codeblock>
