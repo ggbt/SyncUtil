@@ -7,7 +7,7 @@
       <p>Good<xref href="https://github.com/ggbt/SyncUtil/blob/default_branch/C%23ncept.dita"
           format="xml" scope="external"/> s</p>
       <p>tough <b>here</b>.</p>
-      <p><apiname>ascertainable</apiname></p>
+      <p>s<apiname id="apiname_j2c_1mh_llb">ascer<text>tainabl</text>e</apiname></p>
       <codeblock>eval<b/></codeblock>
     </body>
   </topic>
