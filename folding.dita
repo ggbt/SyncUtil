@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-stylesheet type="text/css" href="folding.css" ?>
+<topic id="folding">
+    <title>Folding</title>
+    <body>
+        <p>
+            <ul id="ul_xmk_p1l_cxb">
+                <li id="target">Target <b>WHEN HIDDEN</b> go!</li>
+                <li>abc</li>
+                <li id="folded">xyz</li>
+            </ul>
+        </p>
+    </body>
+</topic>
