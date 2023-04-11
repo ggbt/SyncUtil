@@ -1,0 +1,12 @@
+* {
+  color: green;
+}
+
+#target {
+  -oxy-foldable: true;  
+}
+
+#folded {
+  -oxy-foldable: true;
+  -oxy-folded: true;
+}
